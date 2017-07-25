@@ -1,4 +1,4 @@
-# REACT DAILY PROJECT - 7/24-2017
+# REACT DAILY PROJECT - 7/24/2017
 
 ###### This project will provide practice in scaffolding, passing props, passing functions as props, and rendering child components.
 
