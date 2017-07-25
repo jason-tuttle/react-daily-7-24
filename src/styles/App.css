@@ -1,0 +1,16 @@
+nav, footer {
+  color: white;
+  background-color: darkslategray;
+  text-align: center;
+}
+
+.base-layout {
+  background-color: slategray;
+  color: white;
+  text-align: center;
+}
+
+.say-what {
+  font-size: 2em;
+  font-weight: bold;
+}
